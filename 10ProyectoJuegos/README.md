@@ -1,0 +1,1 @@
+En este primer proyecto intentaré llevar a cabo un blog de Video Juegos utilizando CSS3 y Flex-Box
